@@ -1,4 +1,4 @@
-Oasis Infobyte Web Development Internship
+#Oasis Infobyte Web Development Internship
 
 This repository contains the projects I completed during my Web Development Internship at Oasis Infobyte. The projects focus on front-end and full-stack web development, showcasing skills in HTML, CSS, JavaScript, and modern frameworks.
 
